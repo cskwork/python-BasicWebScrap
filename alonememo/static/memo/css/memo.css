@@ -1,0 +1,21 @@
+   * {
+                font-family: "Stylish", sans-serif;
+            }
+
+            .wrap {
+                width: 900px;
+                margin: auto;
+            }
+
+            .comment {
+                color: blue;
+                font-weight: bold;
+            }
+
+            #post-box {
+                width: 500px;
+                margin: 20px auto;
+                padding: 50px;
+                border: black solid;
+                border-radius: 5px;
+            }
